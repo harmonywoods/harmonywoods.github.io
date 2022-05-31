@@ -23,13 +23,13 @@ body{
 .site-header a:hover {
   color: black;
 }
-a.postlink{
+a.post-link{
   color: red
 }
-a.postlink:visited{
+a.post-link:visited{
   color: red
 }
-a.postlink:hover{
+a.post-link:hover{
   color: red
 }
 hr {
