@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+This is my music blog. I'll be posting reviews of albums and songs and music in general. If you wanna talk to me or suggest a song or album to review, you can tweet at me on my [Twitter](https://twitter.com/pulsiedulsie), or dm me on Discord (PulsieTheDulsie#3895). My favorite genres are pop punk, folk, and chill electronic music (e.g. tropical house). 
