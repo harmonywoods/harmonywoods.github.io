@@ -7,7 +7,10 @@ body{
   background-color: black;
   color: white;
 }
-
+.site-content{
+  background-color: black;
+  color: white;
+}
 a{
   color: red;
 }
