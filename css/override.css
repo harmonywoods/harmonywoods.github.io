@@ -8,13 +8,12 @@ body{
   color: white;
 }
 .site-content{
-  background-color: black;
-  color: white;
-}
-a{
+  background-color: grey;
   color: red;
 }
-
+.site-header a:link{
+  color: red;
+}
 hr {
   margin-top: 30px;
   margin-bottom: 20px;
