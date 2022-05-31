@@ -11,9 +11,19 @@ body{
   background-color: grey;
   color: red;
 }
-.site-header a:link{
-  color: red;
+.site-header{
+  color: grey;
 }
+.site-header a:link{
+  color: black;
+}
+.site-header a:visited {
+  color: black;
+}
+.site-header a:hover {
+  color: black;
+}
+ 
 hr {
   margin-top: 30px;
   margin-bottom: 20px;
