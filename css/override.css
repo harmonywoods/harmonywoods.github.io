@@ -1,6 +1,15 @@
 body{
-  background-color: darkslategrey;
+  background-color: darkgrey;
   color: white;
+}
+
+.page-content{
+  background-color: darkgrey;
+  color: white;
+}
+
+a{
+  color: red;
 }
 
 hr {
