@@ -23,14 +23,14 @@ body{
 .site-header a:hover {
   color: black;
 }
-a.post-link{
-  color: red
+.post-link{
+  color: red;
 }
 a.post-link:visited{
-  color: darkred
+  color: darkred;
 }
 a.post-link:hover{
-  color: red
+  color: red;
 }
 hr {
   margin-top: 30px;
