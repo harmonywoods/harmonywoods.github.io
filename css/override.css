@@ -1,5 +1,5 @@
 body{
-  background-color: #121212;
+  background-color: black;
   color: white;
 }
 a:link{
@@ -12,7 +12,7 @@ a:hover{
   color:red
 }
 .page-content{
-  background-color: #121212;
+  background-color: #1d1d1d;
   color: white;
 }
 .site-content{
@@ -20,7 +20,7 @@ a:hover{
   color: red;
 }
 .site-header{
-  background-color: ghostwhite;
+  background-color: #cccccc;
 }
 .site-header a:link{
   color: black;
