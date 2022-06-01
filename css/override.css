@@ -2,13 +2,13 @@ body{
   background-color: black;
   color: white;
 }
-.site-footer a:link{
+a:link{
   color:red
 }
-.site-footer a:visited{
+a:visited{
   color:red
 }
-.site-footer a:hover{
+a:hover{
   color:red
 }
 .page-content{
