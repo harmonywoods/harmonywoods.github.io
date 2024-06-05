@@ -1,1 +1,1 @@
-this is my blog. i write things sometimes
+this is my blog. i write things, sometimes.
