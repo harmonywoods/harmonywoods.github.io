@@ -1,9 +1,9 @@
 body{
-  background-color: black;
-  color: white;
+  background-color: grey;
+  color: black;
 }
 .site-footer{
-  background-color: black;
+  background-color: darkslategrey;
 }
 a:link{
   color:red
@@ -23,7 +23,7 @@ a:hover{
   color: red;
 }
 .site-header{
-  background-color: #dbdbdb;
+  background-color: green;
 }
 .site-header a:link{
   color: black;
